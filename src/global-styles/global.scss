@@ -1,0 +1,21 @@
+ul {
+ list-style: none;
+}
+
+.displayRow{
+    display: flex;
+    flex-direction: row;
+}
+
+.displayColumn{
+    display: flex;
+    flex-direction: column;
+}
+
+.col-60{
+    width: 60%;
+}
+
+.col-20{
+    width: 20%;
+}
